@@ -1,6 +1,7 @@
 extends Node
 
 var node_creation_parent = null
+var player = null
 
 func set_node_creation_parent(node):
 	node_creation_parent = node
